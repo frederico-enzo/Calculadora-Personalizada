@@ -26,7 +26,5 @@ Este é um projeto de uma calculadora personalizada desenvolvida com HTML, CSS e
 
 Este projeto utiliza a função `eval()` do JavaScript para avaliar a expressão matemática inserida. Embora seja seguro para uso em uma calculadora pessoal e de demonstração, tenha cuidado ao utilizar essa função em situações onde há entrada de dados do usuário, pois isso pode representar um risco de segurança.
 
-## Contribuição
 
-Contribuições são bem-vindas! Se você encontrar algum problema, bug ou tiver alguma sugestão de melhoria, fique à vontade para abrir uma *issue* ou enviar um *pull request*.
 
